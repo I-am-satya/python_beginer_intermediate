@@ -1,9 +1,15 @@
-Hello All, Welcome to this Repository... 
+Hello Everyone,
 
-My self Satya Venkat!, I am a Software Developer with 3+ years of Experience in Devloping Python Scripts to reduce the manual or complex tasks. 
+I'm Satya Venkat, a Software Developer with 3+ years of experience in developing Python scripts to automate manual or complex tasks.
 
-I am an Enthusiastic and Determined, and I Strongly believe learning is happens only when we are doing...
+I am enthusiastic and determined, and I strongly believe that learning happens best through hands-on experience.
 
-There are some good resources that i fount at linkedin by Bosscoders Academy I am taking the practice questions from it... feel free to add more practice questions. 
+This repository contains a collection of interview practice questions, including:
+✅ Real-time interview questions I have faced in various technical rounds.
+✅ Practice questions from valuable resources, such as those shared by Bosscoders Academy on LinkedIn.
+✅ General theoretical and coding questions commonly asked in interviews.
 
-thank you very much!
+I encourage contributions! Feel free to add more practice questions and share your interview experiences to help others prepare better.
+
+Thank you for your support! 🚀
+
