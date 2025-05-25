@@ -19,18 +19,12 @@ Each file covers a specific topic or concept, with simple code examples and expl
 
 ## How to Use
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/python-practice-guide.git
-    cd python-practice-guide
-    ```
-
-2. Run any of the Python files to practice concepts:
+1. Run any of the Python files to practice concepts:
     ```bash
     python 01_strings_basics.py
     ```
 
-3. Read the comments in each file for explanations and hints.
+2. Read the comments in each file for explanations and hints.
 
 ## Why Practice Here?
 
